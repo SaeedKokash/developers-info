@@ -1,1 +1,3 @@
-# React App for Developers Info using reducer 
+# Developer-Info-App
+
+React App for Developers Info using reducer 
